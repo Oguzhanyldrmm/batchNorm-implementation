@@ -1,2 +1,2 @@
 # batchNorm-implementation
- Batch normalization implementation with character-level language model training.
+ Batch normalization implementation from NN Zero to Hero series Andrej Karpathy.
